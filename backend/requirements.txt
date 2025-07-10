@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
+requests
+python-dotenv
+joblib
+seaborn
+pydantic
+statsmodels
+scipy
