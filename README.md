@@ -160,9 +160,7 @@ Missing values are handled using forward filling and backward filling during pre
 ### 5. Robust Scaling
 
 The pipeline uses `RobustScaler`, which scales features using their median and interquartile range (IQR) rather than relying on the mean and standard deviation.
-
 This makes the scaling procedure less sensitive to extreme observations.
----
 
 
 ## Backend API
